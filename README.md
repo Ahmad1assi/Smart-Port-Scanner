@@ -20,10 +20,10 @@ A fast, multi-threaded port scanner written in Python, designed for network disc
    git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git
 
 2. Run the tool:
- bash 
+```bash
    python scan_ip.py
 
-
+```
 3. Provide inputs:
 Enter the target IP/Domain.
 Enter the start and end port numbers.
