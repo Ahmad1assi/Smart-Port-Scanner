@@ -1,4 +1,4 @@
-```markdown
+
 # Smart Port Scanner v1.1
 
 A fast, multi-threaded port scanner written in Python, designed for network discovery and reconnaissance. The tool allows users to scan custom port ranges, perform banner grabbing to identify running services, and automatically save the findings into a structured log file.
@@ -24,9 +24,10 @@ A fast, multi-threaded port scanner written in Python, designed for network disc
 ## 🔧 Installation & Usage
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git
-```
+```bash
+   git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git 
+
+
 
 2. **Run the tool:**
 ```bash
@@ -67,6 +68,4 @@ When running the script, the output will be displayed on your terminal and saved
 
 > **Legal Notice:** This tool is developed strictly for educational and authorized penetration testing purposes. Scanning targets without prior explicit permission is illegal. The developer assumes no liability for any misuse or damage caused by this tool.
 
-```
 
-```
