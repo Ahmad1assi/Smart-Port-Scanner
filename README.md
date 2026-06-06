@@ -24,9 +24,10 @@ A fast, multi-threaded port scanner written in Python, designed for network disc
 ## 🔧 Installation & Usage
 
 1. **Clone the repository:**
-```bash
-   git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git 
 
+```bash
+ git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git 
+ ```
 
 
 2. **Run the tool:**
