@@ -20,6 +20,7 @@ A fast, multi-threaded port scanner written in Python, designed for network disc
    git clone https://github.com/Ahmad1assi/Smart-Port-Scanner.git
 
 2. Run the tool:
+ bash 
    python scan_ip.py
 
 
@@ -29,13 +30,13 @@ Enter the start and end port numbers.
 
 4. 📄 Sample Output
 ------------------------------------------------------------
-[*] Scanning Target: 127.0.0.1
-[*] Scan Started At: 14:30:15
-[*] Results will be saved to: scan_results_127.0.0.1.txt
+Scanning Target: 127.0.0.1
+Scan Started At: 14:30:15
+Results will be saved to: scan_results_127.0.0.1.txt
 ------------------------------------------------------------
-[+] Port 22: OPEN -> [Service: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5]
-[+] Port 80: OPEN -> [Service: HTTP/1.1 200 OK]
-[+] Port 443: OPEN -> [Service: No Banner]
+ Port 22: OPEN -> [Service: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5]
+ Port 80: OPEN -> [Service: HTTP/1.1 200 OK]
+Port 443: OPEN -> [Service: No Banner]
 ------------------------------------------------------------
 [*] Scan completed. Report saved to 'scan_results_127.0.0.1.txt'
 
